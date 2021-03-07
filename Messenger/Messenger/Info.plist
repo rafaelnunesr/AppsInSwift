@@ -62,5 +62,31 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb766294400668891</string>
+            </array>
+        </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>766294400668891</string>
+    <key>FacebookDisplayName</key>
+    <string>My Messenger</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb766294400668891</string>
+            </array>
+        </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>766294400668891</string>
+    <key>FacebookDisplayName</key>
+    <string>My Messenger</string>
 </dict>
 </plist>

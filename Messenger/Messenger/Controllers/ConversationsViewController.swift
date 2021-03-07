@@ -13,7 +13,6 @@ class ConversationsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // just to make sure we're in the ConversationsViewController
-        view.backgroundColor = .red
     }
     
     override func viewDidAppear(_ animated: Bool) {
